@@ -21,3 +21,5 @@ export default function InputNumber ({ value, onChange, disabled, inputRef }) {
     </div>
   )
 }
+
+
